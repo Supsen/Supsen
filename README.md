@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software & Web Developer
 ------------------------
 
-* 🌍  I'm based in Chicago, Illinois
-* ✉️  You can contact me at [cen3203510sen@gmail.com](mailto:cen3203510sen@gmail.com)
-* 🧠  I'm learning Javascript, Node.js, Express.js, & Swift
-* 🤝  I'm open to collaborating on Web, Mobile Application Development & Machine Learning.
+* I'm based in Chicago, Illinois
+* Contact me at [cen3203510sen@gmail.com](mailto:cen3203510sen@gmail.com)
+* Ecperienced with Javascript, Node.js, Express.js, & Swift
+* I'm open to collaborating on Web App, Mobile App Development & Machine Learning.
 
 ### Skills
 
