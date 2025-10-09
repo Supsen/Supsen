@@ -5,7 +5,7 @@ Software & Web Developer
 ------------------------
 
 * I'm based in Chicago, Illinois
-* Contact me at [cen3203510sen@gmail.com](mailto:cen3203510sen@gmail.com)
+* Contact me at [suphasit.us.th@gmail.com](mailto:suphasit.us.th@gmail.com)
 * Ecperienced with Javascript, Node.js, Express.js, & Swift
 * I'm open to collaborating on Web App, Mobile App Development & Machine Learning.
 
