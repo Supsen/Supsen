@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software & Web Developer
 ------------------------
 
-* I'm based in Chicago, Illinois
+* I'm based in Thailand
 * Contact me at [suphasit.us.th@gmail.com](mailto:suphasit.us.th@gmail.com)
 * Ecperienced with Javascript, Node.js, Express.js, & Swift
 * I'm open to collaborating on Web App, Mobile App Development & Machine Learning.
