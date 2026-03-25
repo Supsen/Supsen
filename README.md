@@ -5,9 +5,6 @@ Software & Web Developer
 ------------------------
 
 * I'm based in Thailand
-* Contact me at [suphasit.us.th@gmail.com](mailto:suphasit.us.th@gmail.com)
-* Experienced with Java, Javascript, HTML, CSS & Swift
-* I'm open to collaborating on Web App, Mobile App Development & Machine Learning.
 
 ### Skills
 
